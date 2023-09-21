@@ -1,5 +1,5 @@
 ---
-title: vue学习笔记(一)
+title: vue学习笔记（一）
 date: 2023-06-27 07:58:05
 tags: Vue
 ---

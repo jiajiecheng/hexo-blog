@@ -1,5 +1,5 @@
 ---
-title: Django学习笔记(一)
+title: Django学习笔记（一）
 date: 2023-09-10 17:19:01
 tags: Django
 ---
